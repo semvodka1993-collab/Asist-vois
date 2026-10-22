@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Голосовой агент</string>
+    <string name="accessibility_description">Выполняет команды, которые пользователь произносит в приложении «Голосовой агент».</string>
+</resources>
